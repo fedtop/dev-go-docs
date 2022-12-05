@@ -4,7 +4,7 @@ export default {
   description: 'A super unbeatable browser extension plugin for developers(一个专属于开发者的超级无敌浏览器扩展插件)',
   base: '/dev-go-docs',
   head:[
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/dev-go-docs/favicon.ico' }]
   ],
   themeConfig:{
     siteTitle: null,
