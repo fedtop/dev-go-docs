@@ -3,6 +3,9 @@ export default {
   titleTemplate: false,
   description: 'A super unbeatable browser extension plugin for developers(一个专属于开发者的超级无敌浏览器扩展插件)',
   base: '/dev-go-docs',
+  head:[
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   themeConfig:{
     siteTitle: null,
     logo: "/logo.png",
