@@ -1,9 +1,10 @@
 export default {
   title: 'DevGo',
+  titleTemplate: false,
   description: 'A super unbeatable browser extension plugin for developers(一个专属于开发者的超级无敌浏览器扩展插件)',
   base: '/dev-go-docs',
   themeConfig:{
-    siteTitle: "DevGo",
+    siteTitle: null,
     logo: "/logo.png",
     nav: [
       // {
