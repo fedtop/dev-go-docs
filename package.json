@@ -10,8 +10,11 @@
     "prepare": "husky install",
     "lint": "eslint . --ext .vue,.js,.ts,.jsx,.tsx --fix"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "DevGo",
+    "Google Chrome Extension"
+  ],
+  "author": "daodaolee",
   "license": "ISC",
   "pnpm": {
     "peerDependencyRules": {
