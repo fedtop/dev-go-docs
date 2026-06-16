@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
     "prepare": "husky install",
     "lint": "eslint . --ext .vue,.js,.ts,.jsx,.tsx --fix"

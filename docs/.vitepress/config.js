@@ -1,7 +1,7 @@
 export default {
   title: 'DevGo',
   titleTemplate: false,
-  description: 'A super unbeatable browser extension plugin for developers(一个专属于开发者的超级无敌浏览器扩展插件)',
+  description: 'DevGo 是一个面向开发者的浏览器效率扩展',
   base: '/dev-go-docs',
   head:[
     ['link', { rel: 'icon', href: '/dev-go-docs/favicon.ico' }]
@@ -10,17 +10,26 @@ export default {
     siteTitle: null,
     logo: "/logo.png",
     nav: [
-      // {
-      //   text: "指引",
-      //   items: [{ text: `Lottery 抽奖`, link: "/tools/Lottery" }],
-      // },
       {
-        text: "指引",
+        text: "使用指南",
         link: "/guide/index",
+      },
+      {
+        text: "本地开发",
+        link: "/development/index",
       }
     ],
+    sidebar: [
+      {
+        text: "文档",
+        items: [
+          { text: "使用指南", link: "/guide/index" },
+          { text: "本地开发", link: "/development/index" },
+        ],
+      },
+    ],
     socialLinks:[
-      { icon: 'github', link: 'https://github.com/fedtop/dev-go' }
+      { icon: 'github', link: 'https://github.com/wangrongding/dev-go' }
     ],
     footer: {
       message: 'Released under the MIT License.',
