@@ -71,8 +71,43 @@
   "truncated": [],
   "overflow": []
  },
+ "hover-translate": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "input-polish-replace": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "cors-card": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "page-translate": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "composite-popup-tabs": {
+  "han": [],
+  "truncated": [],
+  "overflow": [
+   ""
+  ]
+ },
+ "composite-quickstart": {
+  "han": [],
+  "truncated": [],
+  "overflow": [
+   ""
+  ]
+ },
  "newtab": {
   "han": [
+   "阮",
    "阮一峰日志",
    "豆包",
    "一席",
@@ -81,7 +116,9 @@
    "QQ邮箱",
    "知乎",
    "小红书",
+   "豆",
    "豆瓣",
+   "网",
    "网易云音乐"
   ],
   "truncated": [],
