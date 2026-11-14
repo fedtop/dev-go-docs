@@ -12,7 +12,9 @@
 - **导入配置**：选择备份文件立即生效，无效条目会跳过并提示「已导入 N 项（跳过 M 项无效数据）」
 - 备份文件带应用标识和版本号，导入时会校验类型，不是 DevGo 的备份文件会直接拒绝
 
-<!-- TODO(manual)：设置页「数据备份」分区卡片图，路径 shots/0.2.3/zh-CN/light/options-backup.png，落地后放「备份」小节 -->
+<img src="/shots/0.2.3/zh-CN/light/sync-backup-card.png" alt="「数据备份」卡片：导出配置 / 导入配置">
+
+_图：「数据备份」卡片——导出 / 导入全部配置；API Key 不会写进备份文件。_
 
 ::: warning
 **API Key 不写入备份文件**（避免明文泄露）。换机导入后，翻译模型和对话模型的 Key 需要在 [AI 模型](/settings/models)里重新填写。

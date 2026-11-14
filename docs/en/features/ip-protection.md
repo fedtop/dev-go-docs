@@ -42,7 +42,9 @@ The dialog also states: **regular browsing, watching videos, downloads, and clie
 
 The other levels and toggles work the same way: "Disable in-page audio/video calls" lists that all web meetings, voice calls, and screen sharing stop working; "Hide camera and microphone" lists that in-page recording, photo upload, voice input, and identity verification stop working — each dialog ends with its matching recovery step.
 
-<!-- TODO(manual)：开启确认弹窗截图（隐藏真实 IP），路径 shots/0.2.3/manual/ip-confirm.png -->
+<img src="/shots/0.2.3/manual/ip-confirm.png" alt="The confirmation dialog shown before enabling 'Hide real IP (recommended)': actual changes, affected web meetings and voice calls, and how to recover; 'Confirm' is the only way to apply">
+
+_The confirmation dialog before enabling "Hide real IP (recommended)" — what actually changes, which features may be affected, and how to recover. (Screenshot shows the Chinese UI; an English version is pending.)_
 
 ## Stricter blocking
 

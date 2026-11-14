@@ -29,11 +29,13 @@ DevGo's day-to-day controls live in three places:
 - **The side panel**: press `Alt+2` for the AI assistant — summarize pages, ask about their content.
 - **Settings**: everything is configured here, organized into Translation / AI models / Selection / AI assistant / Network / Page enhancements / General.
 
+<img src="/shots/0.2.3/en/light/composite-popup-tabs.png" alt="The popup's four pages side by side: Translate, Network, Resources, Features">
+
+_The popup's four pages — Translate, Network, Resources, Features — in one view._
+
 <img src="/shots/0.2.3/en/light/popup-function.png" alt="Overview: the popup's Features page" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
 
 _The popup's Features page: per-site switches for the selection toolbar, floating dock, and copy unlocking._
-
-<!-- TODO(manual)：弹窗四 tab 拼图（翻译/网络/资源/功能一张看全，README 风格横排），路径 shots/0.2.3/zh-CN/light/composite-popup-tabs.png，落地后放「界面速览」段首 -->
 
 After [installing](/en/guide/install), walk through the [Quick start (5 minutes)](/en/guide/quick-start).
 

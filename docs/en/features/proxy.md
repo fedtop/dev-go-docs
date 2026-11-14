@@ -19,6 +19,10 @@ Entry points: the popup's Network page (`Alt+3`) to switch quickly; Settings →
 
 _The popup's Network page: switch modes in one click; set the current site to direct or proxied at the bottom._
 
+<img src="/shots/0.2.3/en/light/proxy-mode-card.png" alt="The Network mode section in settings: four modes">
+
+_Settings → Network mode: switch among the four modes._
+
 ## Per-site shortcuts
 
 At the bottom of the popup's Network page:
@@ -36,9 +40,9 @@ Auto = rule list + custom proxy domains + a default for unmatched traffic:
 
 With no rules and no custom domains, Auto is equivalent to Direct.
 
-<!-- TODO(manual)：设置页「网络模式」分区裁切图，路径 shots/0.2.3/zh-CN/light/options-network-mode.png -->
+<img src="/shots/0.2.3/zh-CN/light/proxy-auto-rules-card.png" alt="The proxy configuration card in settings">
 
-<!-- TODO(manual)：设置页「自动模式规则」分区裁切图，路径 shots/0.2.3/zh-CN/light/options-network-rules.png -->
+_The "Proxy configuration" card — Direct and System proxy need no configuration; switch to Auto, Global proxy, or a custom mode to configure the proxy server, rule list, and bypass list here. (Screenshot shows the Chinese UI; an English version is pending.)_
 
 ## Custom proxy modes
 

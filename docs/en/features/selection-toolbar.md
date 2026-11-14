@@ -27,7 +27,9 @@ _The "Explain" result panel: switch actions at the top; follow up or copy at the
 
 Select text inside an input (comment boxes, search boxes, web editors) and the toolbar switches to writing mode: **Polish, Fix, Formal**, plus your custom actions that apply to inputs. When the AI finishes, click "Replace original" to swap the field's content for the result.
 
-<!-- TODO(manual)：输入框选中文字「润色 → 替换原文」结果图，路径 shots/0.2.3/manual/selection-input-replace.png -->
+<img src="/shots/0.2.3/zh-CN/light/input-polish-replace.png" alt="Writing mode inside an input: Polish / Fix / Formal toolbar and a result panel with a Replace original button">
+
+_Writing mode in an input field — after the AI polishes the text, "Replace original" swaps it in. (Screenshot shows the Chinese UI; an English version is pending.)_
 
 ## Custom actions
 

@@ -14,11 +14,9 @@ Flip this switch and DevGo adds the missing CORS headers to the page's XHR / fet
 
 Popup's Network page → "Disable CORS restrictions". **Refresh the page** after toggling.
 
-<img src="/shots/0.2.3/en/light/popup-network.png" alt="The popup's Network page" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
+<img src="/shots/0.2.3/en/light/cors-card.png" alt="The 'Disable CORS restrictions' card: toggle and notes">
 
-_The popup's Network page: the "Disable CORS restrictions" toggle sits further down._
-
-<!-- TODO(manual)：弹窗「网络」页 CORS 卡片裁切图，路径 shots/0.2.3/zh-CN/light/popup-cors.png，落地后替换上图 -->
+_The "Disable CORS restrictions" card — refresh the page after toggling; see the limits below for what it can't fix._
 
 ## Limits and caveats
 

@@ -15,7 +15,9 @@
 
 入口：弹窗「网络」页（`Alt+3`）一键切换；设置页「网络」做完整配置。
 
-<!-- TODO(manual)：设置页「网络模式」分区裁切图，路径 shots/0.2.3/zh-CN/light/options-network-mode.png -->
+<img src="/shots/0.2.3/zh-CN/light/proxy-mode-card.png" alt="设置页「网络模式」分区：四种模式一键切换">
+
+_图：设置页「网络模式」——四种模式一键切换。_
 
 <img src="/shots/0.2.3/zh-CN/light/popup-network.png" alt="弹窗网络页" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
 
@@ -38,7 +40,9 @@ _图：弹窗「网络」页——四种模式一键切换，底部可设当前�
 
 没有任何规则、也没有自定义域名时，自动模式等于直连。
 
-<!-- TODO(manual)：设置页「自动模式规则」分区裁切图，路径 shots/0.2.3/zh-CN/light/options-network-rules.png -->
+<img src="/shots/0.2.3/zh-CN/light/proxy-auto-rules-card.png" alt="设置页「代理配置」卡片">
+
+_图：「代理配置」卡片——直连 / 系统代理无需配置；切到自动模式、代理模式或自定义模式后，在这里配置代理服务器、规则列表与绕过列表。_
 
 ## 自定义代理模式
 

@@ -14,11 +14,9 @@
 
 弹窗「网络」页 →「解除 CORS 限制」开关。开关切换后**刷新页面**生效。
 
-<img src="/shots/0.2.3/zh-CN/light/popup-network.png" alt="弹窗网络页" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
+<img src="/shots/0.2.3/zh-CN/light/cors-card.png" alt="「解除 CORS 限制」卡片：开关与说明">
 
-_图：弹窗「网络」页——「解除 CORS 限制」开关在页面下方。_
-
-<!-- TODO(manual)：弹窗「网络」页 CORS 卡片裁切图，路径 shots/0.2.3/zh-CN/light/popup-cors.png，落地后替换上图 -->
+_图：「解除 CORS 限制」卡片——开关切换后需刷新页面生效；能救哪些场景见下文边界。_
 
 ## 边界与注意
 

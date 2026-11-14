@@ -26,7 +26,7 @@ The Translate page is also the control panel for page translation:
 - **Translate this page / Show original**: toggle full-page translation — see [Full-page bilingual translation](/en/features/page-translate)
 - **Hover translation**: enable under Settings → Translation, then press `Alt` while pointing at a paragraph to translate just that one
 
-<!-- TODO(manual)：悬停翻译气泡截图（按 Alt 悬停段落出译文），路径 shots/0.2.3/manual/translate-hover.png -->
+<!-- TODO(manual)：悬停翻译气泡截图。glm3 产出的 hover-translate.png 经视觉核验不成立（页面无翻译气泡，mock 注入未生效），保留占位待重拍，落地后替换此处。 -->
 
 ## Notes
 

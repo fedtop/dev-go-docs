@@ -12,11 +12,13 @@ Under Settings → General → Backup:
 - **Import**: pick the file and it takes effect immediately; invalid entries are skipped with "Imported N items (skipped M invalid)"
 - Backup files carry an app marker and version; anything that isn't a DevGo backup is rejected outright
 
+<img src="/shots/0.2.3/en/light/sync-backup-card.png" alt="The Backup card: Export and Import">
+
+_The "Backup" card — export / import your configuration; API keys never enter backup files._
+
 ::: warning
 **API keys are never written to backup files** (to avoid leaking secrets in plain text). After importing on a new machine, re-enter the keys under [AI models](/en/settings/models).
 :::
-
-<!-- TODO(manual)：设置页「数据备份」分区卡片图，路径 shots/0.2.3/zh-CN/light/options-backup.png，落地后放「备份」小节 -->
 
 ## Sync across devices
 
