@@ -18,7 +18,7 @@
 
 仓库的 Issues、Pull Request、Actions 等子页面不显示按钮，不干扰正常浏览。
 
-<!-- TODO(manual)：GitHub 代码页悬浮按钮截图，路径 shots/0.2.3/manual/github.png -->
+<img src="/shots/0.2.3/manual/github.png" alt="GitHub 代码页右侧的悬浮按钮：在线编辑、DeepWiki，页面下滚后出现回到顶部">
 
 ## 快捷键 `,`
 
