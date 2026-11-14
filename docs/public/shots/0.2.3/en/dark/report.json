@@ -71,6 +71,40 @@
   "truncated": [],
   "overflow": []
  },
+ "hover-translate": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "input-polish-replace": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "cors-card": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "page-translate": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "composite-popup-tabs": {
+  "han": [],
+  "truncated": [],
+  "overflow": [
+   ""
+  ]
+ },
+ "composite-quickstart": {
+  "han": [],
+  "truncated": [],
+  "overflow": [
+   ""
+  ]
+ },
  "newtab": {
   "han": [
    "<capture-failed>"
