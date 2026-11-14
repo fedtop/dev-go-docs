@@ -15,7 +15,11 @@
 
 入口：弹窗「网络」页（`Alt+3`）一键切换；设置页「网络」做完整配置。
 
-<img src="/shots/0.2.3/zh-CN/light/popup-network.png" alt="弹窗网络页">
+<!-- TODO(manual)：设置页「网络模式」分区裁切图，路径 shots/0.2.3/zh-CN/light/options-network-mode.png -->
+
+<img src="/shots/0.2.3/zh-CN/light/popup-network.png" alt="弹窗网络页" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
+
+_图：弹窗「网络」页——四种模式一键切换，底部可设当前站点直连 / 走代理。_
 
 ## 单站点快捷切换
 
@@ -34,6 +38,8 @@
 
 没有任何规则、也没有自定义域名时，自动模式等于直连。
 
+<!-- TODO(manual)：设置页「自动模式规则」分区裁切图，路径 shots/0.2.3/zh-CN/light/options-network-rules.png -->
+
 ## 自定义代理模式
 
 除了内置模式，可以「新增自定义模式」，给不同的代理服务器起名（如「工作」「家庭」），一键互相切换。每个模式独立保存代理服务器（协议 / Host / 端口）和绕过列表。
@@ -47,3 +53,5 @@
 - **Firefox 暂不支持**代理切换（Chromium 专有 API 限制），见 [FAQ](/faq/#firefox-里代理切换不可用)
 
 <img src="/shots/0.2.3/zh-CN/light/options-network.png" alt="网络设置">
+
+_图：设置页「网络」——代理配置、规则列表与真实 IP 防护都在这一页。_

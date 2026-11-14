@@ -33,9 +33,13 @@
 
 输入框：`Enter` 发送，`Shift + Enter` 换行；生成过程中可以点「停止」。
 
-<img src="/shots/0.2.3/zh-CN/light/sidepanel.png" alt="侧边栏 AI 助手">
+<img src="/shots/0.2.3/zh-CN/light/sidepanel.png" alt="侧边栏 AI 助手" style="width: 40%; display: block; margin-left: auto; margin-right: auto">
 
-<img src="/shots/0.2.3/zh-CN/dark/sidepanel.png" alt="深色侧边栏">
+_图：侧边栏 AI 助手——顶部快捷指令，输入框直接就当前网页提问。_
+
+<img src="/shots/0.2.3/zh-CN/dark/sidepanel.png" alt="深色侧边栏" style="width: 40%; display: block; margin-left: auto; margin-right: auto">
+
+_图：深色主题下的侧边栏。_
 
 ## 模型配置
 

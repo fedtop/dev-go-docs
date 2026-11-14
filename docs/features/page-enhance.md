@@ -6,7 +6,9 @@
 
 弹窗「功能」页是这三个开关的统一入口，每个开关只影响当前网站，旁边会显示当前状态（如「已在 github.com 停用」「共 3 个站点已开启」）。
 
-<img src="/shots/0.2.3/zh-CN/light/popup-function.png" alt="弹窗功能页">
+<img src="/shots/0.2.3/zh-CN/light/popup-function.png" alt="弹窗功能页" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
+
+_图：弹窗「功能」页——三个按站开关显示当前网站状态。_
 
 ## 划词工具条
 
@@ -27,3 +29,5 @@
 弹窗「功能」页还有 AI 助手和网页工具（WebMCP）的快捷入口，见对应功能页；页面底部的「管理全部网站与更多功能」直达设置页。
 
 <img src="/shots/0.2.3/zh-CN/light/options-enhance.png" alt="网页增强设置">
+
+_图：设置页「网页增强」——悬浮快捷栏总开关与解除复制限制的网站列表。_

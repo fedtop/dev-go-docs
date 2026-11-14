@@ -13,7 +13,9 @@
 - 每条资源显示来源（请求抓取 / 页面 DOM）和类型，图片和常见格式视频可以直接预览
 - 单个下载 / 复制链接 / 打开链接；也可以「下载全部」批量创建下载任务
 
-<img src="/shots/0.2.3/zh-CN/light/popup-tools.png" alt="弹窗资源页">
+<img src="/shots/0.2.3/zh-CN/light/popup-tools.png" alt="弹窗资源页" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
+
+_图：弹窗「资源」页——类型筛选、搜索与「下载全部」。_
 
 ## 流媒体的说明
 

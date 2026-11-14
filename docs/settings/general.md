@@ -11,7 +11,11 @@
 
 <img src="/shots/0.2.3/zh-CN/light/options-general.png" alt="通用设置">
 
+_图：设置页「通用」——外观、语言、快捷键、同步与备份。_
+
 <img src="/shots/0.2.3/zh-CN/dark/options-general.png" alt="深色通用设置">
+
+_图：深色主题下的通用设置。_
 
 ## 弹窗
 

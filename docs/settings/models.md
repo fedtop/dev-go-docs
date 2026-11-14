@@ -15,6 +15,8 @@
 
 <img src="/shots/0.2.3/zh-CN/light/options-models.png" alt="AI 模型设置">
 
+_图：设置页「AI 模型」——翻译模型与对话模型分开配置。_
+
 ## 配置项
 
 三样东西：

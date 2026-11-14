@@ -25,9 +25,9 @@ WebMCP 目前是 Chrome 的实验功能：
 
 更省事的用法是直接在「对话」页描述需求，比如「帮我搜一下红色的 T 恤」，AI 会自动调用网页工具完成。
 
-<img src="/shots/0.2.3/zh-CN/light/sidepanel.png" alt="侧边栏网页工具入口">
+<img src="/shots/0.2.3/manual/webmcp.png" alt="侧边栏「网页工具」页：演示商店注册的 3 个工具卡片（search_products / get_product_details / add_to_cart，带只读或可能修改数据标签），search_products 已执行并返回商品 JSON" style="width: 40%; display: block; margin-left: auto; margin-right: auto">
 
-<img src="/shots/0.2.3/manual/webmcp.png" alt="侧边栏「网页工具」页：演示商店注册的 3 个工具卡片（search_products / get_product_details / add_to_cart，带只读或可能修改数据标签），search_products 已执行并返回商品 JSON">
+_图：侧边栏「网页工具」页——工具卡片与只读 / 可能修改数据标签，search_products 已执行并返回结果。_
 
 ## 执行前确认
 

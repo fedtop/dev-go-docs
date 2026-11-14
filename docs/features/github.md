@@ -20,6 +20,8 @@
 
 <img src="/shots/0.2.3/manual/github.png" alt="GitHub 代码页右侧的悬浮按钮：在线编辑、DeepWiki，页面下滚后出现回到顶部">
 
+_图：GitHub 代码页右下角的悬浮按钮——在线编辑、DeepWiki、回到顶部。_
+
 ## 快捷键 `,`
 
 在 GitHub 代码页的**非输入框**里按一下 `,`，直接用 github1s 打开当前仓库路径，和「在线编辑」按钮等效。（这也是 GitHub 官方 `.` 打开 github.dev 的习惯用法，`,` 对应更快的 github1s。）

@@ -12,7 +12,9 @@
 - **快捷键**：「整页行间翻译」默认未绑定，可在 `chrome://extensions/shortcuts` 自行设置
 - **自动**：把常用站点加进「总是翻译的网站」，打开即自动翻译
 
-<img src="/shots/0.2.3/zh-CN/light/popup-translate.png" alt="弹窗翻译页">
+<img src="/shots/0.2.3/zh-CN/light/popup-translate.png" alt="弹窗翻译页" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
+
+_图：弹窗「翻译」页——引擎、目标语言与「总是翻译该网站」。_
 
 ## 翻译引擎
 
@@ -52,3 +54,5 @@
 - 选 AI 大模型翻译时，建议选不带深度思考的快模型（如 glm-4-flash、qwen-turbo），整页翻译更跟手
 
 <img src="/shots/0.2.3/zh-CN/light/options-translate.png" alt="翻译设置">
+
+_图：设置页「翻译」——展示方式、译文下划线、悬停翻译与总是翻译的网站。_

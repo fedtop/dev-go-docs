@@ -13,7 +13,9 @@
 
 结果下方有**复制**和**朗读**按钮。
 
-<img src="/shots/0.2.3/zh-CN/light/popup-translate.png" alt="弹窗查词">
+<img src="/shots/0.2.3/zh-CN/light/popup-translate.png" alt="弹窗查词" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
+
+_图：弹窗「翻译」页查词——输入单词或短句即查，结果带复制与朗读。_
 
 ## 相关能力
 
@@ -23,6 +25,8 @@
 - **总是翻译该网站**：把当前网站加进自动整页翻译列表
 - **翻译当前页面 / 显示原文**：切换整页翻译，详见[整页双语翻译](/features/page-translate)
 - **悬停翻译**：设置页「翻译」里开启，鼠标悬停按一下 `Alt` 只翻当前段落
+
+<!-- TODO(manual)：悬停翻译气泡截图（按 Alt 悬停段落出译文），路径 shots/0.2.3/manual/translate-hover.png -->
 
 ## 注意事项
 

@@ -29,7 +29,11 @@ DevGo 的日常操作集中在三个地方：
 - **侧边栏**：按 `Alt+2` 打开 AI 助手，总结网页、就内容提问。
 - **设置页**：所有配置都在这里，按 翻译 / AI 模型 / 划词 / AI 助手 / 网络 / 网页增强 / 通用 分区。
 
-<img src="/shots/0.2.3/zh-CN/light/popup-function.png" alt="功能总览：弹窗「功能」页">
+<img src="/shots/0.2.3/zh-CN/light/popup-function.png" alt="功能总览：弹窗「功能」页" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
+
+_图：弹窗「功能」页——划词工具条、悬浮快捷栏、解除复制限制的按网站开关都在这里。_
+
+<!-- TODO(manual)：弹窗四 tab 拼图（翻译/网络/资源/功能一张看全，README 风格横排），路径 shots/0.2.3/zh-CN/light/composite-popup-tabs.png，落地后放「界面速览」段首 -->
 
 > [安装](/guide/install) 之后，跟着 [快速上手（5 分钟）](/guide/quick-start) 走一遍即可。
 

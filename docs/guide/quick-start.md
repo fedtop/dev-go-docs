@@ -16,7 +16,9 @@
 
 译文随滚动按需加载，长页面不用等全页翻完；再点一次「显示原文」即恢复。
 
-<img src="/shots/0.2.3/zh-CN/light/popup-translate.png" alt="弹窗翻译页">
+<img src="/shots/0.2.3/zh-CN/light/popup-translate.png" alt="弹窗翻译页" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
+
+_图：弹窗「翻译」页——「翻译当前页面」一键开始，译文按需加载。_
 
 ::: tip
 引擎默认是微软翻译（免翻墙），也可切换 Google 或自己的 AI 大模型，见[整页双语翻译](/features/page-translate)。
@@ -33,6 +35,8 @@
 - 工具条动作不够用？在设置页「划词 → 工具条动作」添加自己的动作（如「转 JSON」「解释报错」），填名称和提示词即可
 
 <img src="/shots/0.2.3/zh-CN/light/page-selection.png" alt="划词工具条">
+
+_图：选中网页文字后浮出的工具条：翻译 / 解释 / 总结 / 问 AI。_
 
 ::: tip
 解释、总结等 AI 动作需要先配置模型，见 [AI 模型](/settings/models)。觉得工具条碍事？弹窗「功能」页可只对当前网站停用。
@@ -52,6 +56,8 @@
 悬浮条可以上下拖动；点左上角 × 可以选择「本次不显示 / 在本站不显示 / 全部网站都不显示」。
 
 <img src="/shots/0.2.3/zh-CN/light/page-dock.png" alt="悬浮快捷栏">
+
+_图：网页右侧的悬浮快捷栏，悬停展开快捷操作。_
 
 ## 默认快捷键
 
