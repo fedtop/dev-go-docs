@@ -1,0 +1,79 @@
+{
+ "popup-translate": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "popup-network": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "popup-tools": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "popup-function": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-translate": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-models": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-selection": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-assistant": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-network": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-enhance": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-general": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "sidepanel": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "page-selection": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "page-dock": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "newtab": {
+  "han": [
+   "<capture-failed>"
+  ],
+  "truncated": [],
+  "overflow": []
+ }
+}
