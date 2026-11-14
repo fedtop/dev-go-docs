@@ -59,17 +59,17 @@
   "truncated": [],
   "overflow": []
  },
- "newtab": {
-  "han": [],
-  "truncated": [],
-  "overflow": []
- },
  "page-selection": {
   "han": [],
   "truncated": [],
   "overflow": []
  },
  "page-dock": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "newtab": {
   "han": [],
   "truncated": [],
   "overflow": []

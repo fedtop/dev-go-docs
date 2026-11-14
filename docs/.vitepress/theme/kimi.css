@@ -242,10 +242,12 @@
       text-decoration-color: currentColor;
     }
 
-    /* 截图：圆角 + 细边 + 轻投影，像 Kimi 的应用截图卡片 */
+    /* 截图：圆角 + 细边 + 轻投影，像 Kimi 的应用截图卡片；点击可放大预览 */
     img {
       border-radius: 8px;
       border: 1px solid var(--vp-c-border);
+      cursor: zoom-in;
+      transition: box-shadow 0.18s ease;
       box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
       margin: 8px 0 24px;
     }
