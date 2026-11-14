@@ -1,0 +1,94 @@
+{
+ "popup-translate": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "popup-network": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "popup-tools": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "popup-function": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-translate": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-models": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-selection": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-assistant": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-network": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-enhance": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "options-general": {
+  "han": [
+   "中文"
+  ],
+  "truncated": [],
+  "overflow": []
+ },
+ "sidepanel": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "newtab": {
+  "han": [
+   "阮",
+   "阮一峰日志",
+   "豆包",
+   "一",
+   "一席",
+   "微信读书",
+   "网易邮箱",
+   "QQ邮箱",
+   "知乎",
+   "小红书",
+   "豆",
+   "豆瓣",
+   "网",
+   "网易云音乐"
+  ],
+  "truncated": [],
+  "overflow": []
+ },
+ "page-selection": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "page-dock": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ }
+}
