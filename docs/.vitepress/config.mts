@@ -67,6 +67,21 @@ export default defineConfig({
   description: 'DevGo 使用文档：面向开发者的浏览器效率扩展',
   base: '/dev-go-docs/',
   head: [['link', { rel: 'icon', href: '/dev-go-docs/favicon.ico' }]],
+  themeConfig: {
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: { buttonText: '搜索文档', buttonAriaLabel: '搜索文档' },
+          modal: {
+            noResultsText: '没有找到相关结果',
+            resetButtonTitle: '清除查询',
+            footer: { selectText: '选择', navigateText: '切换', closeText: '关闭' },
+          },
+        },
+      },
+    },
+  },
   locales: {
     root: {
       label: '简体中文',
@@ -74,6 +89,19 @@ export default defineConfig({
       themeConfig: {
         nav: zhNav,
         sidebar: zhSidebar,
+        search: {
+          provider: 'local',
+          options: {
+            translations: {
+              button: { buttonText: '搜索文档', buttonAriaLabel: '搜索文档' },
+              modal: {
+                noResultsText: '没有找到相关结果',
+                resetButtonTitle: '清除查询',
+                footer: { selectText: '选择', navigateText: '切换', closeText: '关闭' },
+              },
+            },
+          },
+        },
         outline: { level: [2, 3] },
         docFooter: { prev: '上一页', next: '下一页' },
         returnToTopLabel: '回到顶部',
