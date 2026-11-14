@@ -569,3 +569,12 @@
     font-size: 26px;
   }
 }
+
+/* 图片放大浮层：蒙层必须盖住顶栏和侧栏，放大图再盖住蒙层 */
+.medium-zoom-overlay {
+  z-index: 999;
+}
+
+.medium-zoom-image--opened {
+  z-index: 1000;
+}
