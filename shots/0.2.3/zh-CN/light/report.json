@@ -59,17 +59,66 @@
   "truncated": [],
   "overflow": []
  },
- "newtab": {
-  "han": [],
-  "truncated": [],
-  "overflow": []
- },
  "page-selection": {
   "han": [],
   "truncated": [],
   "overflow": []
  },
  "page-dock": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "hover-translate": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "input-polish-replace": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "cors-card": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "sync-backup-card": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "proxy-mode-card": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "proxy-auto-rules-card": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "page-translate": {
+  "han": [],
+  "truncated": [],
+  "overflow": []
+ },
+ "composite-popup-tabs": {
+  "han": [],
+  "truncated": [],
+  "overflow": [
+   ""
+  ]
+ },
+ "composite-quickstart": {
+  "han": [],
+  "truncated": [],
+  "overflow": [
+   ""
+  ]
+ },
+ "newtab": {
   "han": [],
   "truncated": [],
   "overflow": []
