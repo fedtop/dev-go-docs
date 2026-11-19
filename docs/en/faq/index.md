@@ -53,7 +53,19 @@ See [Real IP protection](/en/features/ip-protection).
 2. Open `chrome://flags`, search "WebMCP for testing", enable, restart the browser
 3. Ordinary pages with no tools registered is normal; hit "Check again" when in doubt
 
-See [Page tools (WebMCP)](/en/features/webmcp).
+See [Page tools (WebMCP)](/en/features/webmcp). If the site has no WebMCP tools, you can add your own — see [Site tools & recording](/en/features/site-tools); no experimental flag needed.
+
+## A site tool fails with "element not found"?
+
+**Cause**: the site changed, the element hasn't loaded yet, or the run didn't start on the page the tool expects.
+
+**Fix**:
+
+1. For recorded tools, turn on "Open the starting URL first" so every run starts from the same place
+2. Ask the AI in chat to "fix this tool" — it re-inspects the page, test-runs, and saves over the old one
+3. If the site changed a lot, record it again
+
+See [Site tools & recording](/en/features/site-tools).
 
 ## AI errors: 401 / 404 / 429?
 

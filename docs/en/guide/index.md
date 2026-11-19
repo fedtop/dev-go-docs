@@ -1,6 +1,6 @@
 # What is DevGo
 
-<!-- Applies to v0.2.3 -->
+<!-- Applies to v0.2.5 -->
 
 DevGo is a browser extension built for developers: translation, an AI assistant, proxy management with real IP protection, and media sniffing — all in one extension that speaks both Chinese and English, on Chrome and Firefox.
 
@@ -8,18 +8,20 @@ Instead of installing five extensions that each do one thing, DevGo aims to make
 
 ## What it can do
 
-| Capability                      | In one sentence                                                               | Docs                                                           |
-| ------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Full-page bilingual translation | Translations follow the original paragraphs; Shadow DOM pages supported       | [Full-page bilingual translation](/en/features/page-translate) |
-| Selection toolbar               | Translate, explain, or summarize any text you select — with custom AI actions | [Selection toolbar](/en/features/selection-toolbar)            |
-| AI assistant                    | Summarize the page and ask questions about it, in a side panel                | [AI assistant](/en/features/assistant)                         |
-| Page tools (WebMCP)             | The AI can call tools registered by the page and act on it for you            | [Page tools (WebMCP)](/en/features/webmcp)                     |
-| Proxy & rule-based routing      | Four network modes, one click to switch; rules route traffic automatically    | [Proxy & rule-based routing](/en/features/proxy)               |
-| Real IP protection              | Stop sites from using WebRTC to grab your real IP while you're on a proxy     | [Real IP protection](/en/features/ip-protection)               |
-| Media sniffer                   | Sniff images, videos, and audio on the current tab; download in bulk          | [Media sniffer](/en/features/media-sniffer)                    |
-| Floating dock                   | Quick actions on the right edge of every page                                 | [Floating dock](/en/features/dock)                             |
-| New tab                         | Search engines with bang syntax, quick links, dynamic backgrounds             | [New tab](/en/features/newtab)                                 |
-| Page enhancements               | Per-site copy unlocking and GitHub enhancements                               | [Page enhancements](/en/features/page-enhance)                 |
+| Capability                      | In one sentence                                                                        | Docs                                                           |
+| ------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Full-page bilingual translation | Translations follow the original paragraphs; Shadow DOM pages supported                | [Full-page bilingual translation](/en/features/page-translate) |
+| Selection toolbar               | Translate, explain, or summarize any text you select — with custom AI actions          | [Selection toolbar](/en/features/selection-toolbar)            |
+| AI assistant                    | Summarize the page and ask questions about it, in a side panel                         | [AI assistant](/en/features/assistant)                         |
+| Page tools (WebMCP)             | The AI can call tools registered by the page and act on it for you                     | [Page tools (WebMCP)](/en/features/webmcp)                     |
+| Site tools & recording          | Add AI-callable tools to any site: let the AI build them or record your actions        | [Site tools & recording](/en/features/site-tools)              |
+| Page export                     | Export the page as a PDF / long image that matches the screen, or just a selected area | [Page export](/en/features/capture)                            |
+| Proxy & rule-based routing      | Four network modes, one click to switch; rules route traffic automatically             | [Proxy & rule-based routing](/en/features/proxy)               |
+| Real IP protection              | Stop sites from using WebRTC to grab your real IP while you're on a proxy              | [Real IP protection](/en/features/ip-protection)               |
+| Media sniffer                   | Sniff images, videos, and audio on the current tab; download in bulk                   | [Media sniffer](/en/features/media-sniffer)                    |
+| Floating dock                   | Quick actions on the right edge of every page                                          | [Floating dock](/en/features/dock)                             |
+| New tab                         | Search engines with bang syntax, quick links, dynamic backgrounds                      | [New tab](/en/features/newtab)                                 |
+| Page enhancements               | Per-site copy unlocking and GitHub enhancements                                        | [Page enhancements](/en/features/page-enhance)                 |
 
 ## The interface in 30 seconds
 
@@ -33,9 +35,9 @@ DevGo's day-to-day controls live in three places:
 
 _The popup's four pages — Translate, Network, Resources, Features — in one view._
 
-<img src="/shots/0.2.3/en/light/popup-function.png" alt="Overview: the popup's Features page" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
+<img src="/shots/0.2.5/en/light/popup-function.png" alt="Overview: the popup's Features page" style="width: 60%; display: block; margin-left: auto; margin-right: auto">
 
-_The popup's Features page: per-site switches for the selection toolbar, floating dock, and copy unlocking._
+_The popup's Features page: AI assistant, page tools, recording and page export, plus per-site switches for the selection toolbar, floating dock, and copy unlocking._
 
 After [installing](/en/guide/install), walk through the [Quick start (5 minutes)](/en/guide/quick-start).
 

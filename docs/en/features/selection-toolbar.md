@@ -57,6 +57,6 @@ _Settings → Selection → Toolbar actions: built-in action switches and custom
 
 ## Notes
 
-- AI actions need a [chat model](/en/settings/models) (the translation model is used until one is set separately)
+- AI actions need a [chat model](/en/settings/models) (the translation model is used until one is set separately). With no model or API key configured, the result panel says so and a "**Set up**" button jumps to Settings → AI models; an invalid key (401 / 403) shows the same button
 - For one annoying site — an online editor, say — use per-site off rather than killing the global switch
 - Custom actions are included in [backup export / import](/en/settings/sync), so they survive a machine switch

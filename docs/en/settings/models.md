@@ -1,6 +1,6 @@
 # AI models
 
-<!-- Applies to v0.2.3 -->
+<!-- Applies to v0.2.5 -->
 
 In one line: translate with Google, Microsoft (no proxy needed), or any OpenAI-compatible LLM — and configure the translation and chat models separately: fast for translation, strong for chat.
 
@@ -8,12 +8,14 @@ In one line: translate with Google, Microsoft (no proxy needed), or any OpenAI-c
 
 | Config                | Where it's used                                                           | How to choose                                                                                          |
 | --------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Translation model** | Full-page / hover / selection translation (when the engine is "AI model") | Built for speed: a fast model without deep thinking — glm-4-flash, qwen-turbo, deepseek-chat           |
-| **Chat model**        | Selection explain / summarize / polish, and the side panel assistant      | Built for capability: a strong model with tool calling — GLM-4.6, Kimi K2, qwen3-max, or a Coding Plan |
+| **Translation model** | Full-page / hover / selection translation (when the engine is "AI model") | Built for speed: a fast model without deep thinking — glm-5.3-flash, qwen-turbo, deepseek-chat         |
+| **Chat model**        | Selection explain / summarize / polish, and the side panel assistant      | Built for capability: a strong model with tool calling — glm-5.3, Kimi K2, qwen3-max, or a Coding Plan |
 
-The chat model follows the translation model until you save a separate config; "Follow the translation model again" switches back if you'd rather maintain one.
+The chat model follows the translation model's provider and key until you save a separate config; "Follow the translation model again" switches back if you'd rather maintain one.
 
-<img src="/shots/0.2.3/en/light/options-models.png" alt="AI model settings">
+While following, if translation uses the preset's recommended fast model, chat automatically switches to that provider's recommended strong model (Zhipu: glm-5.3-flash for translation, glm-5.3 for chat); a model you picked yourself is kept as is. Choosing a preset for the chat model also fills in the recommended strong model.
+
+<img src="/shots/0.2.5/en/light/options-models.png" alt="AI model settings">
 
 _Settings → AI models: translation and chat models, configured separately._
 

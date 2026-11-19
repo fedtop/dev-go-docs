@@ -51,7 +51,7 @@ Add sites you read often — `developer.mozilla.org`, for example — and they t
 
 - Browser built-in pages (`chrome://` URLs) and the extension store can't be translated; on normal pages, refresh once if translation doesn't kick in right after install
 - Long pages translate on demand: failed paragraphs get a ↻ to retry individually
-- With an AI model as the engine, prefer a fast model without deep thinking (glm-4-flash, qwen-turbo) — full-page translation stays responsive
+- With an AI model as the engine, prefer a fast model without deep thinking (glm-5.3-flash, qwen-turbo) — full-page translation stays responsive
 
 <img src="/shots/0.2.3/en/light/options-translate.png" alt="Translation settings">
 

@@ -29,7 +29,9 @@ Three quick actions sit at the top of the panel, each preloaded with the current
 - The assistant reads the current page's content itself (including Shadow DOM pages) — no copy-pasting
 - Answers stream in; expand **reasoning** to see the thinking
 - "Ask AI" from the selection toolbar brings the selection in as a quote; remove it above the input box
-- When the page provides WebMCP tools, the AI can call them and act on the page (see [Page tools](/en/features/webmcp)); runs show up as cards in the conversation
+- When the page provides WebMCP tools, or you've added [site tools](/en/features/site-tools) for the site, the AI can call them and act on the page (see [Page tools](/en/features/webmcp)); runs show up as cards in the conversation
+- Say "make a search tool for this site" and the AI inspects the page, test-runs, and builds a site tool for you
+- Answers render Markdown: headings, lists, code blocks, tables and more
 
 Input box: `Enter` to send, `Shift + Enter` for a newline; click "Stop" while generating.
 
@@ -48,4 +50,4 @@ The assistant uses the [chat model](/en/settings/models) (configured separately 
 ## Notes
 
 - Without a model, the input box says "Configure a chat model in settings first"
-- Browser built-in pages (`chrome://` URLs) can't be read; pages opened before the extension was installed need one refresh
+- Browser built-in pages (`chrome://` URLs) can't be read; pages opened before DevGo was installed or updated are handled automatically, no refresh needed
