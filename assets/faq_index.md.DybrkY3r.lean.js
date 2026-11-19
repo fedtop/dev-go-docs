@@ -1,1 +1,0 @@
-import{_ as e,o,c as r,a2 as a}from"./chunks/framework.CfwCq2QB.js";const c=JSON.parse('{"title":"FAQ 与故障排查","description":"","frontmatter":{},"headers":[],"relativePath":"faq/index.md","filePath":"faq/index.md"}'),i={name:"faq/index.md"};function l(s,t,n,d,h,p){return o(),r("div",null,[...t[0]||(t[0]=[a("",42)])])}const f=e(i,[["render",l]]);export{c as __pageData,f as default};
